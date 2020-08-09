@@ -3,12 +3,16 @@
 <h3 align="center"> :books: Sua plataforma de estudos online</h3>
 
 <p align="center">
-  <img alt="GitHub quantidade de linguagens" src="https://img.shields.io/github/languages/count/guicttram/proffy?color=blue">
+  <img alt="GitHub quantidade de linguagens" src="https://img.shields.io/github/languages/count/guicttram/proffy?color=24EF7F">
   
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/guicttram/proffy?color=red">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/guicttram/proffy?color=8257E5">
   
-  <img alt="Commits" src="https://img.shields.io/github/last-commit/guicttram/proffy?color=green">
+  <img alt="Commits" src="https://img.shields.io/github/last-commit/guicttram/proffy?color=24EF7F">
   
+  <img alt="Licensa" src="https://img.shields.io/badge/license-MIT-8257E5">
+  
+  <img alt="Stars" src="https://img.shields.io/github/stars/guicttram/proffy?style=social">
+   
 </p>
 
 <h1 align="center">
