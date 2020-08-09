@@ -5,11 +5,11 @@
 <p align="center">
   <img alt="GitHub quantidade de linguagens" src="https://img.shields.io/github/languages/count/guicttram/proffy?color=24EF7F">
   
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/guicttram/proffy?color=8257E5">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/guicttram/proffy?color=9871F5">
   
   <img alt="Commits" src="https://img.shields.io/github/last-commit/guicttram/proffy?color=24EF7F">
   
-  <img alt="Licensa" src="https://img.shields.io/badge/license-MIT-8257E5">
+  <img alt="Licensa" src="https://img.shields.io/badge/license-MIT-9871F5">
   
   <img alt="Stars" src="https://img.shields.io/github/stars/guicttram/proffy?style=social">
    
@@ -23,7 +23,9 @@
   <a href="#-sobre-o-projeto">Sobre</a> •
   <a href="#-layout">Layout</a> •
   <a href="#-como-executar-o-projeto">Como executar</a> •
-  <a href="#-tecnologias">Tecnologias</a>
+  <a href="#-tecnologias">Tecnologias</a> •
+  <a href="#-autor">Autor</a> •
+  <a href="#user--content--licença">Licença</a>
 </p>
 
 ## :microscope: Sobre o projeto
@@ -87,6 +89,8 @@ Foram usadas no desenvolvimento do projeto as seguintes ferramentas:
 - **[NodeJS](https://nodejs.org/en)**
 - **[Nodemon](https://github.com/remy/nodemon)**
 - **[Nunjucks](https://github.com/mozilla/nunjucks)**
+- **[SQLite](https://www.sql.org/)**
+- **[Sqlite-async](https://www.npmjs.com/package/sqlite-async)**
 
 > Veja o arquivo [package.json](https://github.com/guicttram/proffy/blob/master/package.json)
 
