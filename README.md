@@ -108,7 +108,7 @@ Foram usadas no desenvolvimento do projeto as seguintes ferramentas:
 
 <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/65967159?s=460&u=6fc93a7021ea71efd00e1303a80c31b46b2ba0f4&v=4" width="100px;" alt=""/>
 <br />
-<sub><b>Guilherme Ceratti<b><sub>
+<sub><b>Guilherme Ceratti</b></sub>
 <br />
   
 [![Linkedin Badge](https://img.shields.io/badge/-guicttram-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guicttram/)](https://www.linkedin.com/in/guicttram/) 
