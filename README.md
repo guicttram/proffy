@@ -95,3 +95,29 @@ Foram usadas no desenvolvimento do projeto as seguintes ferramentas:
 > Veja o arquivo [package.json](https://github.com/guicttram/proffy/blob/master/package.json)
 
 ---
+## :handshake: Como contribuir para o projeto
+
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+
+---
+
+## :honeybee: Autor
+
+<img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/65967159?s=460&u=6fc93a7021ea71efd00e1303a80c31b46b2ba0f4&v=4" width="100px;" alt=""/>
+<br />
+<sub><b>Guilherme Ceratti<b><sub>
+<br />
+  
+[![Linkedin Badge](https://img.shields.io/badge/-guicttram-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guicttram/)](https://www.linkedin.com/in/guicttram/) 
+[![Gmail Badge](https://img.shields.io/badge/-guicttram@gmail.com-black?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:guicttram@gmail.com)](mailto:guicttram@gmail.com)
+
+---
+
+## :clipboard: Licença
+
+Este projeto está sob a lincença [MIT](./LICENCE.md).
+
+Feito por Guilherme Ceratti :iphone: [Entre em contato!](https://www.linkedin.com/in/guicttram/)
