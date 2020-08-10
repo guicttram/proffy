@@ -20,7 +20,7 @@
 </h1>
 
 <p align="center">
-  <a href="#-:microscope:-sobre-o-projeto">Sobre</a> •
+  <a href="#-microscope-sobre-o-projeto">Sobre</a> •
   <a href="#-:triangular_ruler:-layout">Layout</a> •
   <a href="#-:clapper:-como-executar-o-projeto">Como executar</a> •
   <a href="#-:space_invader:-tecnologias">Tecnologias</a> •
