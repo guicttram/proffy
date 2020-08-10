@@ -29,7 +29,7 @@
 </p>
 
 ## :microscope:
-## Sobre o projeto 
+## :microscope: Sobre o projeto 
 
 :mortar_board: Proffy - É uma plataforma online de estudos, estruturada com a ideia de ser um ambiente onde alunos e professores se conectam de maneira dinâmica e eficiente. O professor pode se cadastrar informando certos dados, a matéria que deseja ensinar e os horários que possui disponíveis. Uma "ficha virtual" de cada professor cadastrado fica, então, disponível. Assim, os alunos cadastrados podem filtrar suas preferências e escolher o professor que mais lhes agrada.
 
