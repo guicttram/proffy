@@ -20,15 +20,15 @@
 </h1>
 
 <p align="center">
-  <a href="#-sobre-o-projeto">Sobre</a> •
-  <a href="#-layout">Layout</a> •
-  <a href="#-como-executar-o-projeto">Como executar</a> •
-  <a href="#-tecnologias">Tecnologias</a> •
-  <a href="#-autor">Autor</a> •
-  <a href="#user--content--licença">Licença</a>
+  <a href="#-:microscope:-sobre-o-projeto">Sobre</a> •
+  <a href="#-:triangular_ruler:-layout">Layout</a> •
+  <a href="#-:clapper:-como-executar-o-projeto">Como executar</a> •
+  <a href="#-:space_invader:-tecnologias">Tecnologias</a> •
+  <a href="#-:honeybee:-autor">Autor</a> •
+  <a href="#-:clipboard:-licença">Licença</a>
 </p>
 
-## Sobre o projeto :microscope:
+## :microscope: Sobre o projeto 
 
 :mortar_board: Proffy - É uma plataforma online de estudos, estruturada com a ideia de ser um ambiente onde alunos e professores se conectam de maneira dinâmica e eficiente. O professor pode se cadastrar informando certos dados, a matéria que deseja ensinar e os horários que possui disponíveis. Uma "ficha virtual" de cada professor cadastrado fica, então, disponível. Assim, os alunos cadastrados podem filtrar suas preferências e escolher o professor que mais lhes agrada.
 
@@ -36,7 +36,7 @@ Projeto desenvolvido durante a **NLW - Next Level Week #02** oferecida pela [Roc
 
 ---
 
-## Layout :triangular_ruler:
+## :triangular_ruler: Layout
 
 ### Página de listagem de professores disponíveis
 
@@ -51,7 +51,7 @@ Projeto desenvolvido durante a **NLW - Next Level Week #02** oferecida pela [Roc
 
 ---
 
-## Como executar o projeto :clapper:
+## :clapper: Como executar o projeto
 
 Antes de qualquer coisa, é preciso ter instalado na máquina a ferramenta 
 [Git](https://git-scm.com).
@@ -78,7 +78,7 @@ $ npm start
 
 ---
 
-## Tecnologias :space_invader:
+## :space_invader: Tecnologias 
 
 Foram usadas no desenvolvimento do projeto as seguintes ferramentas: 
 
@@ -95,7 +95,7 @@ Foram usadas no desenvolvimento do projeto as seguintes ferramentas:
 > Veja o arquivo [package.json](https://github.com/guicttram/proffy/blob/master/package.json)
 
 ---
-## Como contribuir para o projeto :handshake:
+## :handshake: Como contribuir para o projeto 
 
 1. Faça um **fork** do projeto.
 2. Crie uma nova branch com suas alterações: `git checkout -b my-feature`
@@ -104,7 +104,7 @@ Foram usadas no desenvolvimento do projeto as seguintes ferramentas:
 
 ---
 
-## Autor :honeybee:
+## :honeybee: Autor 
 
 <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/65967159?s=460&u=6fc93a7021ea71efd00e1303a80c31b46b2ba0f4&v=4" width="100px;" alt=""/>
 <br />
@@ -116,7 +116,7 @@ Foram usadas no desenvolvimento do projeto as seguintes ferramentas:
 
 ---
 
-## Licença :clipboard:
+## :clipboard: Licença 
 
 Este projeto está sob a lincença [MIT](./LICENCE.md).
 
