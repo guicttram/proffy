@@ -49,6 +49,12 @@ Projeto desenvolvido durante a **NLW - Next Level Week #02** oferecida pela [Roc
   <img alt="Página de fichas" src="/public/images/give-classes-fullpage.png" width="100%">
 </p>
 
+### NOVO: Função de remover horários durante o cadastro disponível
+>Obs: É preciso cadastrar, no mínimo, um horário. 
+<p align="center" style="display: flex, align-items: flex-start, justify-content: center;">
+  <img alt="Remover horário" src="/public/images/remove-schedule.png" width="100%">
+</p>
+
 ---
 
 ## :clapper: Como executar o projeto
